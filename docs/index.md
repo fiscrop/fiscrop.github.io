@@ -14,6 +14,6 @@ Here is an example how to do it in MarkDown for user HTenkanen:
 
 Add here links to the maps that you have created:
 
- - [Link to test map](https://fiscrop.github.io/plot_RF_IRRI.html)
+ - [Link to test map](https://fiscrop.github.io/plots_RF_IRRI.html)
  - Replace this with your link
 
