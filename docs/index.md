@@ -16,4 +16,3 @@ Add here links to the maps that you have created:
 
  - [Link to test map](https://fiscrop.github.io/plots_RF_IRRI.html)
  - Replace this with your link
-
